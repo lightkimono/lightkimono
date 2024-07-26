@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/local/bin/perl/inc
 # perlpath.pl
 # This script gets run only from setup.sh in order to replace the 
 # #!/usr/local/bin/perl line at the start of scripts with the real path to perl
